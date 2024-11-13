@@ -17,6 +17,8 @@ usethis::create_from_github(
   fork = FALSE
 )
 
+usethis::use_github()
 
+# add a new line
 
 utils::install.packages("httr2")
