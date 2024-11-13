@@ -19,6 +19,8 @@ usethis::create_from_github(
 
 usethis::use_github()
 
+# create a new branch
+
 # add a new line
 
 utils::install.packages("httr2")
